@@ -12,6 +12,6 @@ Youtube clone is the clone of Youtube video sharing website in which you can wid
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-prajapati-b60588334/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chanchal8860)
+[![linkedin](https://img.shields.io/badge/Chanchal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchal-prajapati-b60588334/)
+[![GitHub](https://img.shields.io/badge/Chanchal-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chanchal8860)
 
